@@ -4,3 +4,9 @@
 .hidden {
     display: none;
 }
+
+header {
+    background-color: yellow;
+    text-align: end;
+    
+}
