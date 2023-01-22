@@ -3,25 +3,25 @@
   <defs>
     <style>
       .cls-1 {
-        font-size: 72px;
-      }
-
-      .cls-2 {
-        font-size: 37.12px;
-      }
-
-      .cls-3 {
-        font-family: MyriadPro-Regular, 'Myriad Pro';
-      }
-
-      .cls-4 {
         letter-spacing: .11em;
       }
 
-      .cls-5 {
+      .cls-2 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-3 {
         letter-spacing: .13em;
+      }
+
+      .cls-4 {
+        font-size: 166.53px;
+      }
+
+      .cls-5 {
+        font-size: 322.96px;
       }
     </style>
   </defs>
-  <text class="cls-3" transform="translate(644.86 278.65)"><tspan class="cls-1"><tspan x="0" y="0">SVG</tspan></tspan><tspan class="cls-2"><tspan class="cls-5" x="0" y="44.55">I</tspan><tspan class="cls-4" x="13.7" y="44.55">C</tspan><tspan class="cls-5" x="39.28" y="44.55">ONS</tspan></tspan></text>
+  <text class="cls-2" transform="translate(644.86 488.71) scale(1.74 1)"><tspan class="cls-5"><tspan x="0" y="0">SVG</tspan></tspan><tspan class="cls-4"><tspan class="cls-3" x="0" y="199.83">I</tspan><tspan class="cls-1" x="61.45" y="199.83">C</tspan><tspan class="cls-3" x="176.18" y="199.83">ONS</tspan></tspan></text>
 </svg>

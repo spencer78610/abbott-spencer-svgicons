@@ -1,4 +1,4 @@
-const vectorGraphic = document.querySelector('#newbadge')
+const vectorGraphic = document.querySelector('#download')
 
 function logID () {
     console.log('click on this element:', this.id);

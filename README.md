@@ -1,14 +1,10 @@
-# Project Name
+# SVG ICON Free Downloads
 
-TODO: Write a project description
-
-## Installation
-
-TODO: Describe the installation process
+I have started building a static website for free SVG and PNG downloads it consist of mostly music insterment icons but also some for your average website. It still needs javascript but that is coming soon aswell as a favourite option.
 
 ## Usage
 
-TODO: Write usage instructions
+To use this site all you need to do is search for an icon of your prefrence left click on said icon, then a screen will pop up asking to download the SVG version or the PNG version. Click on the one you need and it's yours.
 
 ## Contributing
 
@@ -18,14 +14,10 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
 ## Credits
 
-TODO: Write credits
+Spencer Abbott
 
 ## License
 
-TODO: Write license
+MIT
