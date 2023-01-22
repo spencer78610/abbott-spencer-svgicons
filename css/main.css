@@ -22,6 +22,10 @@
     background-color: #626262;
 }
 
+.logo {
+    
+}
+
 #main-nav {
     grid-column: 4/-1;
     border-left: solid 2px #000;
@@ -49,11 +53,59 @@
 }
 
 #main-nav ul li a:hover {
-    border-bottom: 3px solid #9a2018;
+    border-bottom: 3px solid #000;
     padding-bottom: 8px;
 }
 
 a {
     text-decoration: none;
     grid-column: 6/11;
+}
+
+#icons {
+    grid-row-gap: 30px;
+    margin-bottom: 110px;
+    margin-top: 30px;
+}
+
+.images1 {
+    background-color: #626262;
+    border-radius: 30px;
+    padding-top: 20px;
+}
+
+.images1:hover {
+    background-color: gray;
+}
+
+#icons .images1 {
+    /* this gird item will span 4 colums */
+    grid-column: span 4;
+    border-color: #000;
+}
+
+/* .images1.selected {
+    background-color: #525151;
+    color: #fff;
+    padding: 20px 20px 0 20px; 
+    height: 350px;
+}
+/*trbl */
+.images1 h4 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Unbounded', arial, sans-serif;
+}
+
+.images1 p {
+    font-size: 12px;
+    margin-bottom: 20px;
+    line-height: 18px;
+    text-align: center;
+    font-family: 'Unbounded', arial, sans-serif;
+}
+
+.images1 a {
+    color: #fff;
 }
